@@ -1,9 +1,5 @@
 1.commit
 
-<<<<<<< HEAD
-2.º¯°æ
-=======
 2.c1
 
 3.c2
->>>>>>> refs/remotes/origin/master
